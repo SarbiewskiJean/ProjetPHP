@@ -1,0 +1,78 @@
+.bandeDeco{
+  background-color: #FF8C00;
+  height: 100px;
+}
+
+header{
+  background: #FF8C00;
+  box-shadow: 0 1px 5px rgba(100,100,100,.3);
+  z-index: 1020;
+  width: 100%;
+}
+
+.menu>header>a {
+	
+  margin-top: 42px;
+  font-style: normal;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: #333;
+  display: block;
+  float: left;
+  padding: 0 20px;
+  text-decoration: none;
+  float: right;
+  color: grey;
+}
+
+body{
+	background-color: grey;
+
+}
+table{
+  font-style: normal;
+  font-weight: 500;
+  
+}
+
+.marge{
+	margin: auto;
+	width: 90%;
+	color: grey;
+	background-color: #FF8C00;
+	margin-top: -16px;
+}	
+
+.logo{
+  width: 230px;
+  height: 100px;
+  float: left;
+}
+
+.titreSujet{
+  font-size: 20px;
+}
+
+.dateSujet{
+  font-size: 12px;
+}
+
+.resumeSujet{
+  font-size: 15px;
+}
+
+.lienBlog{
+  text-decoration: none;
+}
+
+.blog{
+  margin-bottom: 30px;
+}
+
+h2{
+  text-decoration: underline;
+}
+
+.contenuArticle{
+  resize: none;
+}
