@@ -10,8 +10,8 @@
   <form method ="post" action ="creationCompte.php">
     <p><input type="text" size="20" name="nom" placeholder="Nom" required=required></p>
     <p><input type="text" size="20" name="prenom" placeholder="Prenom" required=required></p>
-    <p><input type="email" size="20" name="mail" placeholder="Mail" required=required></p>
-    <p><input type="password" size="20" name="mdp" placeholder="Mot de passe" required=required></p>
+    <p><input type="email" size="20" name="addressemail" placeholder="Mail" required=required></p>
+    <p><input type="password" size="20" name="motdepasse" placeholder="Mot de passe" required=required></p>
     <p><input type="text" size="20" name="pseudo" placeholder="Pseudonyme" required=required></p>
     <input type="submit" value="Creer un compte">
   </form>
