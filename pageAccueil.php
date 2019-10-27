@@ -23,7 +23,7 @@
         <header>
           <a href="https://devweb.iutmetz.univ-lorraine.fr/~sarbiews2u/ProjetPHP/creationCompte.php">Inscrivez vous</a>
           <a href="https://devweb.iutmetz.univ-lorraine.fr/~sarbiews2u/ProjetPHP/authentification.php">Connectez vous</a>
-        <a href="https://devweb.iutmetz.univ-lorraine.fr/~sarbiews2u/ProjetPHP/creationCompte.php">Ecrire un article</a>        
+        <a href="https://devweb.iutmetz.univ-lorraine.fr/~sarbiews2u/ProjetPHP/creationArticle.php">Ecrire un article</a>        
 		</header>
       </div>
       </div>
