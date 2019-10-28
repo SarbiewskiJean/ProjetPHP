@@ -3,7 +3,7 @@
 
 <div class="bandeDeco">
   <head>
-    <a href="pageAccueil.php"> <img src="blog.jpg" alt="dommage" class="logo"> </a>
+    <a href="pageAccueil.php"> <img src="blog.jpg" class="logo"> </a>
   </head>
 
     <script language=" javascript " type="text/javascript">
@@ -31,11 +31,11 @@
       <div class="marge">
                 <h1>Page d'accueil</h1>
 				<h2>Liste Blogs:</h2>
-        <table><tr><div class="blog"><td class="titreSujet"><a href=https://devweb.iutmetz.univ-lorraine.fr/~sarbiews2u/ProjetPHP/pageBlog.php?id=16>Test</a></td></div><td></td></table>
-		<table><tr><div class="blog"><td class="titreSujet"><a href=https://devweb.iutmetz.univ-lorraine.fr/~sarbiews2u/ProjetPHP/pageBlog.php?id=13>Test</a></td><td class="dateSujet">2019-10-26</td></tr><tr></tr><tr></tr><td class="resumeSujet">Resume: ceci est un test</td></div><td></td></table>
-		<table><tr><div class="blog"><td class="titreSujet"><a href=https://devweb.iutmetz.univ-lorraine.fr/~sarbiews2u/ProjetPHP/pageBlog.php?id=14>Test</a></td><td class="dateSujet">2019-10-26</td></tr><tr></tr><tr></tr><td class="resumeSujet">Resume: Ceci est un test</td></div><td></td></table>
-		<table><tr><div class="blog"><td class="titreSujet"><a href=https://devweb.iutmetz.univ-lorraine.fr/~sarbiews2u/ProjetPHP/pageBlog.php?id=15>Test</a></td><td class="dateSujet">2019-10-25</td></tr><tr></tr><tr></tr><td class="resumeSujet">Resume: ceci est un test</td></div><td></td></table>
-		<table><tr><div class="blog"><td class="titreSujet"><a href=https://devweb.iutmetz.univ-lorraine.fr/~sarbiews2u/ProjetPHP/pageBlog.php?id=12>Dernier test</a></td><td class="dateSujet">2019-10-23</td></tr><tr></tr><tr></tr><td class="resumeSujet">Resume: Ceci est un test</td></div><td></td></table>
+        <table><tr><div class="blog"><td class="titresujet"><a href=https://devweb.iutmetz.univ-lorraine.fr/~sarbiews2u/ProjetPHP/pageBlog.php?id=16>Test</a></td></div><td></td></table>
+		<table><tr><div class="blog"><td class="titresujet"><a href=https://devweb.iutmetz.univ-lorraine.fr/~sarbiews2u/ProjetPHP/pageBlog.php?id=13>Test</a></td><td class="datesujetujet">2019-10-26</td></tr><tr></tr><tr></tr><td class="resumesujet">Resume: ceci est un test</td><tr></tr><td class="pseudoSujet">Auteur: Kyrrinor</td></div><td></td></table>
+		<table><tr><div class="blog"><td class="titresujet"><a href=https://devweb.iutmetz.univ-lorraine.fr/~sarbiews2u/ProjetPHP/pageBlog.php?id=14>Test</a></td><td class="datesujet">2019-10-26</td></tr><tr></tr><tr></tr><td class="resumesujet">Resume: Ceci est un test</td></div><td></td></table>
+		<table><tr><div class="blog"><td class="titresujet"><a href=https://devweb.iutmetz.univ-lorraine.fr/~sarbiews2u/ProjetPHP/pageBlog.php?id=15>Test</a></td><td class="datesujet">2019-10-25</td></tr><tr></tr><tr></tr><td class="resumesujet">Resume: ceci est un test</td></div><td></td></table>
+		<table><tr><div class="blog"><td class="titresujet"><a href=https://devweb.iutmetz.univ-lorraine.fr/~sarbiews2u/ProjetPHP/pageBlog.php?id=12>Dernier test</a></td><td class="datesujet">2019-10-23</td></tr><tr></tr><tr></tr><td class="resumesujet">Resume: Ceci est un test</td></div><td></td></table>
     </form>
   </body>
 </html>
